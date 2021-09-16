@@ -1,0 +1,8 @@
+{
+  // udp监听端口
+  "updPort": 37020,
+  // 数据上传地址
+  "uploadDataUrl": "http://localhost:996/hikHttp/uploadData",
+  // 项目id
+  "projectId": 123
+}
