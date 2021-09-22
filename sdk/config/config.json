@@ -2,7 +2,11 @@
   // udp监听端口
   "updPort": 37020,
   // 数据上传地址
-  "uploadDataUrl": "http://localhost:996/hikHttp/uploadData",
+  "uploadDataUrl": "http://localhost:4068/hik/api/deviceSearch",
   // 项目id
-  "projectId": 123
+  "projectId": 1234,
+  // 分组|区域|分类 id
+  "categoryId": 1422818252924420097,
+  // 租户id
+  "tenantId": 123
 }
